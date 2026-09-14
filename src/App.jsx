@@ -61,7 +61,7 @@ export default function App() {
           <span className="logo-dot"></span>
           <h2>DevOps Tools Guide</h2>
         </div>
-        <span className="badge-pipeline">CI/CD Pipeline Demo</span>
+        <span className="badge-pipeline">CI/CD Pipeline Demo - Live Test</span>
       </header>
 
       {/* Main Content Section */}
