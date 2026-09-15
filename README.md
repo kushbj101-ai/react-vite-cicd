@@ -1,16 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Vite CI/CD Pipeline Assignment
 
-Currently, two official plugins are available:
+- **Project:** React CI/CD Application
+- **Student Name:** Kush Bhardwaj
+- **GitHub Repository:** https://github.com/kushbj101-ai/react-vite-cicd
+- **Live Vercel Link:** [Paste your actual .vercel.app link here]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Deliverables & Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Task 2: Git & GitHub
+![GitHub Repo](./screenshots/github-repo.png)
+![Commit History](./screenshots/github-commits.png)
 
-## Expanding the ESLint configuration
+### Task 3: Jenkins CI Build
+![Jenkins Job](./screenshots/jenkins-job.png)
+![Jenkins Console Success](./screenshots/jenkins-console-success.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Task 4: GitHub Webhook
+![Webhook Config](./screenshots/github-webhook-config.png)
+![Webhook Delivery](./screenshots/github-webhook-delivery.png)
+
+### Task 5 & 6: Vercel Deployment & Live App
+![Vercel Deployment](./screenshots/vercel-deployment.png)
+![Live Website](./screenshots/live-website.png)
