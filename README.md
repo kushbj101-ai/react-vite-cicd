@@ -5,8 +5,7 @@
 - **Project:** React CI/CD Application
 - **Student Name:** Kush Bhardwaj
 - **GitHub Repository:** https://github.com/kushbj101-ai/react-vite-cicd
-- **Live Vercel Link:** [Paste your actual .vercel.app link here]
-
+- **Live Vercel Link:** https://react-vite-cicd-ftxghjnle-kushbj101-3816s-projects.vercel.app
 ---
 
 ## Deliverables & Screenshots
